@@ -31,6 +31,6 @@ coverage.*
 node_modules/
 package-lock.json
 package.json
-r.pkg.template.Rcheck/
-r.pkg.template*.tar.gz
-r.pkg.template*.tgz
+coursera.cicd.lab.Rcheck/
+coursera.cicd.lab*.tar.gz
+coursera.cicd.lab*.tgz
